@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculadora de Precios de Juegos</string>
+    <string name="errorEnterPrice">Ingrese un Precio</string>
+    <string name="hintPriceFirstGame">Precio del 1° juego</string>
+    <string name="hintDiscountPrice">Descuento</string>
+    <string name="hintLowerPrice">Precio más bajo</string>
+    <string name="hintBudget">Presupuesto</string>
+    <string name="textCalculate">Calcular</string>
+    <string name="textResult">Resultado</string>
+    <string name="resultPart1">"El siguiente seria el costo de los primeros 10 juegos: "</string>
+    <string name="resultPart2">". Ahora, teniendo en cuenta que el presupuesto es de "</string>
+    <string name="resultPart3">", podrias comprar unicamente "</string>
+    <string name="resultPart4">" juegos(s): "</string>
+    <string name="resultPart5">" = "</string>
+    <string name="resultPart6">.</string>
+    <string name="errorDiscountBiggestFirstGame">El descuento no puede ser mayor al precio del 1° juego</string>
+    <string name="errorLowerPriceBiggestFirstGame">El juego de precio más bajo no puede ser mayor al precio del 1° juego</string>
+    <string name="errorInsufficientBudget">El presupuesto no puede ser menor al precio del 1° juego</string>
+
+</resources>
